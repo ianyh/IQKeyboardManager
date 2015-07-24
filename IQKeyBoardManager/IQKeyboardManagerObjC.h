@@ -28,3 +28,5 @@ FOUNDATION_EXPORT double IQKeyboardManagerObjCVersionNumber;
 
 //! Project version string for IQKeyboardManagerSwift.
 FOUNDATION_EXPORT const unsigned char IQKeyboardManagerObjCVersionString[];
+
+#import "IQKeyboardManager.h"
